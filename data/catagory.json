@@ -1,26 +1,26 @@
 [
     {
-        "catagory_id": "01",
+        "catagory_id": "1",
         "catagory_name": "japanese"
     },
     {
-        "catagory_id": "02",
+        "catagory_id": "2",
         "catagory_name": "English"
     },
     {
-        "catagory_id": "03",
+        "catagory_id": "3",
         "catagory_name": "English"
     },
     {
-        "catagory_id": "04",
+        "catagory_id": "4",
         "catagory_name": "English"
     },
     {
-        "catagory_id": "05",
+        "catagory_id": "5",
         "catagory_name": "English"
     },
     {
-        "catagory_id": "06",
+        "catagory_id": "6",
         "catagory_name": "English"
     }
 ]
