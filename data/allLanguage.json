@@ -1,0 +1,56 @@
+[
+    {
+        "id": "01",
+        "language_name": "japan",
+        "img_url": "https://cdn.pixabay.com/photo/2013/07/13/14/15/japan-162328_960_720.png",
+        "details": "The “Online Japanese N5 Course” is Japanese study materials related to the JLPT N5 level. You can study vocabulary, expressions, and grammar that correspond to the JLPT N5 level. Furthermore, in order to advance communication proficiency in Japanese, you can watch video clips that show actual N5 level Japanese being used in daily conversations. All of the narration contains English subtitles, so that those learning Japanese for the first time can freely study the materials. In addition, for those countries unfamiliar with kanji, all of the Japanese is written in roman letters from Lesson 1 to Lesson 3, and all of the lesson examples are shown in English, so that all learners can study effectively.",
+        "ratings": "4.5",
+        "faq": [
+            {
+                "ans": "Master the basics of writing and pronunciation of Japanese vocabulary."
+            },
+            {
+                "ans": "Being able to use basic greetings often used in daily life."
+            },
+            {
+                "ans": "Being able to have short simple conversations in daily life, and understand."
+            },
+            {
+                "ans": "Master vocabulary, expressions, and grammar related to the JLPT N5 level."
+            },
+            {
+                "ans": "Being able to comprehend hiragana and katakana, as well as read common phrases and sentences written in N5 level Kanji."
+            },
+            {
+                "ans": "This course is made for: Beginners wanting to study general Japanese, learners who want to study entry level business Japanese."
+            }
+        ]
+    },
+    {
+        "id": "02",
+        "language_name": "English",
+        "img_url": "https://img.freepik.com/free-photo/closeup-shot-realistic-flag-united-kingdom-with-interesting-textures_181624-18977.jpg?w=826&t=st=1666869523~exp=1666870123~hmac=ac39b190ef465ca23c70239113db4ba6436c07527d2f198a87db46aecf52d815",
+        "details": "As the global language of business and communication, it’s easy to understand why so many people want to learn and improve their skills in English. With our range of free online courses, you can improve your English communication skills without delay. Whether English is your native or second language, we offer a wide range of English language courses you can take online with our self-paced learning system.",
+        "ratings": "4.5",
+        "faq": [
+            {
+                "ans": "Master the basics of writing and pronunciation of Japanese vocabulary."
+            },
+            {
+                "ans": "Being able to use basic greetings often used in daily life."
+            },
+            {
+                "ans": "Being able to have short simple conversations in daily life, and understand."
+            },
+            {
+                "ans": "Master vocabulary, expressions, and grammar related to the JLPT N5 level."
+            },
+            {
+                "ans": "Being able to comprehend hiragana and katakana, as well as read common phrases and sentences written in N5 level Kanji."
+            },
+            {
+                "ans": "This course is made for: Beginners wanting to study general Japanese, learners who want to study entry level business Japanese."
+            }
+        ]
+    }
+]
