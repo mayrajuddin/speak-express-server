@@ -2,11 +2,12 @@
     {
         "id": "1",
         "language_name": "japanes",
-        "tittle": "japanes for beginners",
+        "tittle": "japanes language for beginners",
         "img_url": "https://img.freepik.com/premium-vector/japan-flag-with-waving-effect-official-proportion_292608-2019.jpg?w=2000",
         "details": "The “Online Japanese N5 Course” is Japanese study materials related to the JLPT N5 level. You can study vocabulary, expressions, and grammar that correspond to the JLPT N5 level. Furthermore, in order to advance communication proficiency in Japanese, you can watch video clips that show actual N5 level Japanese being used in daily conversations. All of the narration contains English subtitles, so that those learning Japanese for the first time can freely study the materials. In addition, for those countries unfamiliar with kanji, all of the Japanese is written in roman letters from Lesson 1 to Lesson 3, and all of the lesson examples are shown in English, so that all learners can study effectively.",
         "ratings": "4.5",
         "requirements": "No previous knowledge of the japanes language required.",
+        "price": "6000",
         "faq": [
             {
                 "ans": "Master the basics of writing and pronunciation of Japanese vocabulary."
@@ -31,11 +32,12 @@
     {
         "id": "2",
         "language_name": "English",
-        "tittle": "English for beginners",
+        "tittle": "English language for beginners",
         "img_url": "https://img.freepik.com/free-photo/closeup-shot-realistic-flag-united-kingdom-with-interesting-textures_181624-18977.jpg?w=826&t=st=1666869523~exp=1666870123~hmac=ac39b190ef465ca23c70239113db4ba6436c07527d2f198a87db46aecf52d815",
         "details": "As the global language of business and communication, it's easy to understand why so many people want to learn and improve their skills in English. With our range of free online courses, you can improve your English communication skills without delay. Whether English is your native or second language, we offer a wide range of English language courses you can take online with our self-paced learning system.",
         "ratings": "4.5",
         "requirements": "No previous knowledge of the English language required.",
+        "price": "6500",
         "faq": [
             {
                 "ans": "Key vocabulary and concepts for the UK university context."
@@ -60,11 +62,12 @@
     {
         "id": "3",
         "language_name": "Chinese",
-        "tittle": "Chinese for beginners",
+        "tittle": "Chinese language for beginners",
         "img_url": "https://t4.ftcdn.net/jpg/00/42/09/99/360_F_42099910_vtsWg2oz6uFviZQyQ3Z8iqepex9SfRuR.jpg",
         "details": "Chinese can be a difficult language to learn for native English speakers as it's not a phonetic language, meaning that the pronunciation is not related to the Chinese characters. To overcome this, the phonetic system known as Pinyin is used.You'll start by looking at Pinyin and learning how to pronounce the main sounds of Chinese. You'll also explore the four tones in Chinese that represent the pitch and direction of your voice as you say a syllable. Different tones can drastically change the meaning of a sentence so it's important to understand these nuances.",
         "ratings": "4.5",
         "requirements": "No previous knowledge of the Chinese language required.",
+        "price": "6550",
         "faq": [
             {
                 "ans": "Identify key categories of vocabulary."
@@ -88,12 +91,13 @@
     },
     {
         "id": "4",
-        "tittle": "German for beginners",
+        "tittle": "German language for beginners",
         "language_name": "Garman",
         "img_url": "https://cdn.pixabay.com/photo/2015/11/24/16/23/flag-germany-1060305__340.jpg",
         "details": "This course will give you a stable foundation for your endeavour of learning German.In video lessons, I will guide you through lectures which are clearly structured, building up on each other and versatile, including not only grammar explanations, but also a lot of video-guided exercises, vocabulary, additional information. After having completed this first part, you will know how to conjugate German regular verbs, the modal verbs, you will be able to make simple sentences containing a subject (the nominative case), a verb and an object (the accusative case). You will know how to spell your name and how to present yourself as well as others. You will be able to ask questions with and without question pronouns. You will know the German numbers and be able to tell the time. You will understand simple forms and be able to fill them in with information about yourself.Should questions come up while learning with my course, please feel free to ask me, I will be happy to answer them.",
         "ratings": "4.5",
         "requirements": "No previous knowledge of the German language required.",
+        "price": "5500",
         "faq": [
             {
                 "ans": "conjugate German regular verbs."
@@ -117,12 +121,13 @@
     },
     {
         "id": "5",
-        "tittle": "Russian for beginners",
+        "tittle": "Russian language for beginners",
         "language_name": "Russian",
         "img_url": "https://media.istockphoto.com/photos/flag-of-russia-picture-id178972043?k=20&m=178972043&s=612x612&w=0&h=NpjQ3vJf9dgyvKKwDXk0qylok6d9efJD4v7TPB4PN2c=",
         "details": "You will be gradually introduced to Russian grammar. Every time you start a new grammar topic you will be given straight-to-the-point summarised information which will help you structure the knowledge in your head and place the learned portion on the correct place in the puzzle. You don't need to know everything in order to become fluent in Russian, all you need to know is to build the base correctly and that is exactly what this course will help you do!.",
         "ratings": "4.5",
         "requirements": "No previous knowledge of the Russian language required.",
+        "price": "7000",
         "faq": [
             {
                 "ans": "Russian Language from basic to advanced."
@@ -146,6 +151,7 @@
         "details": "The course is presenting  all the basics of the Arabic language (MSA) Modern standard Arabic which the mother of all the Arabic dialects, ( MSA ) is used in all the Arab countries beside News, Quran and Bible , so if you study MSA  you will be able easily to Communicate with all Arabian people in all Arab countries also MSA will help you to understand and speak the others dialects so easily.",
         "ratings": "4.5",
         "requirements": "No previous knowledge of the Arabic language required.",
+        "price": "5500",
         "faq": [
             {
                 "ans": " You will learn the verbs, past tense, present tense, future tense, expressing ownership, basics grammar rules etc."
